@@ -1,4 +1,8 @@
 Simple To do list in c++ 
  # Installation
+
+```bash
 make
-run
+chmod +x run
+./run
+```
